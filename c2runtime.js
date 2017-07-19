@@ -17299,6 +17299,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Text.prototype.acts.Destroy,
 	cr.system_object.prototype.acts.SetLayerVisible,
+	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
 	cr.system_object.prototype.cnds.LayerVisible,
@@ -17308,6 +17309,5 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.system_object.prototype.acts.AddVar,
 	cr.system_object.prototype.acts.SubVar,
-	cr.system_object.prototype.acts.SetVar,
-	cr.plugins_.Sprite.prototype.acts.SetVisible
+	cr.system_object.prototype.acts.SetVar
 ];};
