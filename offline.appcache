@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1500597989
+#1500782851
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -28,6 +28,7 @@ images/hairsheet2-sheet0.png
 images/facesheet4-sheet0.png
 images/eyessheet-sheet0.png
 images/eyessheet-sheet1.png
+images/eyessheet4-sheet0.png
 images/shoesheet-sheet0.png
 images/eyessheet6-sheet0.png
 images/eyessheet6-sheet1.png
@@ -47,6 +48,20 @@ images/wingselect3-sheet0.png
 images/wingselect4-sheet0.png
 images/wingselect5-sheet0.png
 images/leafbgsheet-sheet0.png
+images/bg1default-sheet0.png
+images/pixiespritesheet-sheet0.png
+images/leafbg-sheet0.png
+images/queen2sheet-sheet0.png
+images/queen1sheet-sheet0.png
+images/eyessheet7-sheet0.png
+images/pedestal-sheet0.png
+images/frosttalent-sheet0.png
+images/animaltalent-sheet0.png
+images/lighttalent-sheet0.png
+images/tinkertalent-sheet0.png
+images/gardentalent-sheet0.png
+images/watertalent-sheet0.png
+images/talenttext-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
